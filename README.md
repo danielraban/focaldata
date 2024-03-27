@@ -45,7 +45,7 @@
     - How are the CSVs generated?
     - Can the query be dynamic
     - Could this script be used with FastAPI to take arguments and return the data on the API?
-    - How is responsible for this data?
+    - Who is responsible for this data?
     - Where is this data stored?
     - What other calculations can be done on this data to provide useful insights?
 
